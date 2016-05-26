@@ -4,7 +4,7 @@
         <description><![CDATA[gates of war]]></description>
         <link>https://thegrid.ai/gates-of-war/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 May 2016 13:04:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2016 13:04:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gates-of-war/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,6 +26,13 @@
             <link>https://thegrid.ai/gates-of-war/ef6f9bec-6c08-4983-a694-26450388cdff/index.html</link>
             <guid isPermaLink="false">ef6f9bec-6c08-4983-a694-26450388cdff</guid>
             <pubDate>Thu, 26 May 2016 13:04:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fb7f89f-2496-4899-8001-b112cc8289a6.jpg">]]></description>
+            <link>https://thegrid.ai/gates-of-war/08271f0e-e153-47cb-b08d-a543c2ef50f5/index.html</link>
+            <guid isPermaLink="false">08271f0e-e153-47cb-b08d-a543c2ef50f5</guid>
+            <pubDate>Thu, 26 May 2016 13:04:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
