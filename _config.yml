@@ -1,0 +1,14 @@
+layout_spectrum: 0.4823282139841467
+typography_spectrum: 0.17120748781599104
+color:
+  brandStrength: 0.9338487307541072
+  lightness: 0.14426593319512904
+  saturation: 0.20327368192374706
+  rhythmicContrast: 0.8594965711236
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: gates of war
