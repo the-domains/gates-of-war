@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[gates of war]]></title>
         <description><![CDATA[gates of war]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gates-of-war/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 May 2016 13:04:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 26 May 2016 13:04:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gates-of-war/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e14f3002-875a-4a36-bea7-b0fcc98de09b.jpg">]]></description>
+            <link>https://thegrid.ai/gates-of-war/91484914-d808-4de1-9e08-0e3f4bf8deea/index.html</link>
+            <guid isPermaLink="false">91484914-d808-4de1-9e08-0e3f4bf8deea</guid>
+            <pubDate>Thu, 26 May 2016 13:04:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/74e6299c-04e3-410b-821f-48d41cca3b14.jpg">]]></description>
-            <link>undefinedef6f9bec-6c08-4983-a694-26450388cdff/index.html</link>
+            <link>https://thegrid.ai/gates-of-war/ef6f9bec-6c08-4983-a694-26450388cdff/index.html</link>
             <guid isPermaLink="false">ef6f9bec-6c08-4983-a694-26450388cdff</guid>
             <pubDate>Thu, 26 May 2016 13:04:10 GMT</pubDate>
         </item>
